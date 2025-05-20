@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Sistema</title>
-//Os Cruds vão ser, Cadastro de novos admins, cadastro de tipo de bebida, cadastro de bebidas, cadastro de fornecedores e Gerar novos relatórios
+//Os Cruds vão ser, Cadastro de novos admins, cadastro de tipo de bebida, cadastro de bebidas, cadastro de fornecedores,Gerar novos relatórios e Cadastrar entrada e saída
 </head>
 
 <body>
